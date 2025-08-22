@@ -7,7 +7,7 @@ React frontend built with **Vite**.
 Clone the repo and move into the frontend folder:
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:Soumya-prog-tech/Hackathon_1.git
 cd frontend
 ```
 ```bash
